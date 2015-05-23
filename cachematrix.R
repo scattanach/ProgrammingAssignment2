@@ -3,6 +3,8 @@
 
 ## Write a short comment describing this function
 
+## Programming Assignment 2 checkin, 5/23/15
+
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
   set <- function(y) {
